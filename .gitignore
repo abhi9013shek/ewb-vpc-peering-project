@@ -1,0 +1,7 @@
+# Never commit secrets or lab state
+*.pem
+.aws/
+.ewb-state.env
+.ewb-state.env.done
+ewb-evidence/
+*.env
